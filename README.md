@@ -29,8 +29,9 @@
 <h2>Roles</h2><br>
 <table style="width:200%;border:3px slategray">
   <tr>
+    <th>
+      Area/Topic</th>
     <th>Responsible Team members</th>
-    <th>Area/Topic</th>
       </tr> 
       <tr>
       <td>Project Manager  </td> 
@@ -50,21 +51,13 @@
   </tr>
   <tr>
   <td>Application support team</td>
-    <td>Vamsee Krishna Gangapatnam, Sai Manikata Durga Prasad Vinukonda, Aakash Valluru, Venkata Dasari</td>
-    
-   
-    
+    <td>Vamsee Krishna Gangapatnam, Sai Manikata Durga Prasad Vinukonda, Aakash Valluru, Venkata Dasari</td>  
   </tr>
   <tr>
   <td>Testers</td> 
     <td>Vamsee Krishna Gangapatnam, Sai Manikata Durga Prasad Vinukonda, Aakash Valluru, Venkata Dasari</td>
-    
-     
-  </tr>
-
-    
-   
-   
+         
+  </tr>   
   </tr>
   
 </table>
