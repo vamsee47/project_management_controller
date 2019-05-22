@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js">
 </head>
 
+
 <div class="container">
   <h2>PROJECT MANAGEMENT </h2><h2>MILESTONE 01 </h2>
 
@@ -68,7 +69,7 @@
   <li>Vamsee Krishna Gangapatnam</li>
   <li>Sai Manikanta Durga Prasad Vinukonda</li>
   <li> Venkata Sai Krishna Dasari</li>
-  <li>Aakash Valluru </li>
+  <li>Aakash Valluru</li>
 </ul> 
 
 
