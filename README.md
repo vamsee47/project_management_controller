@@ -16,7 +16,7 @@
  <li>Vamsee Krishna Gangapatnam</li>
  <li>Sai Manikanta Durga Prasad </li>
  <li>Aakash Valluru</li>
- <li>Venkata Sai Dasari</li>
+ <li>Venkata Sai Krishna Dasari</li>
 
 
  <h2>Client: </h2><p>Prof. Dr. Case</p>
