@@ -73,7 +73,7 @@
 
 <ul style="list-style-type:disc;">
   <li>Vamsee Krishna Gangapatnam</li>
-  <li>Sai Manikanta Durga PrasadVinukonda</li>
+  <li>Sai Manikanta Durga Prasad Vinukonda</li>
   <li> Venkata Sai Krishna Dasari</li>
   <li>Aakash Valluru </li>
 </ul> 
