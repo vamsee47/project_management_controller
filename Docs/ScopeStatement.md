@@ -47,12 +47,12 @@
   <td>2</td>
   <td>The web portal should allow students perform operations based on his/her eligibility.</td>
   <td>High</td>
-  <td>Non-Functional</td>
+  <td>Functional</td>
   </tr>
   <tr>
   <td>3</td>
   <td>Admin should be able to see the changes they added in the site </td>
-  <td>High</td>
+  <td>Medium</td>
   <td>Functional</td>
   </tr>
   <tr>
