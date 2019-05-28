@@ -71,7 +71,7 @@
 	Applied Computer Science</td>
 	 <td>External</td> 
 	 <td>Provide review comments and suggest improvements</td>
-	  <td>Maryville,Missouri</td> 
+	  <td>DCASE@nwmissouri.edu</td> 
   </tr>
   <tr>
   <td>Vamsee Krishna Gangapatnam</td>
