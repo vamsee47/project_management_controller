@@ -80,7 +80,7 @@
 	ACS</td>	 
 	 <td>Internal</td> 
 	 <td>Web Developer</td>
-	  <td>crvamsee@gmail.com</td> 
+	  <td>s533908@nwmissouri.edu</td> 
   </tr>
   <tr>
     <td>Sai Manikanta Durga Prasad Vinukonda</td>
@@ -120,15 +120,9 @@
 <li>Phase 4 team oversees for any changes and project progress.(sprint4)</li>
 <li>Project reflections and discussions during last day of the project.</li>
 <br>
-<h3>Budget</h3><hr />
-<p>Free of Cost</p>
-
-<h2>Project Future Enhancements:</h2>
-<p>At a later point we would like to enhance the application to handle 10 knowledge areas and 5 process group in detail.User have scope to read more on the topics. We would like to add more number of questions say 20 to 30 questions in a single quiz.If a student/learner get a score of 90% ,a certificate of learning will be issued acknowledging a student efforts.</P>
-
 
 </div>
-<h2>Authorization:</h2><hr />
+<h2>Team Signatures</h2><hr />
  <li>Vamsee Krishna Gangapatnam</li>
  <li>Sai Manikanta DurgaPrasad Vinukonda</li>
  <li>Dasari Venkat</li>
