@@ -13,7 +13,6 @@
 </nav>
 </div>
 <div class="container">
-
 <table>
   <tr>
     <th><b>ID</b></th>
