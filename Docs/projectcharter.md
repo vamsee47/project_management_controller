@@ -126,33 +126,7 @@
 <h2>Project Future Enhancements:</h2>
 <p>At a later point we would like to enhance the application to handle 10 knowledge areas and 5 process group in detail.User have scope to read more on the topics. We would like to add more number of questions say 20 to 30 questions in a single quiz.If a student/learner get a score of 90% ,a certificate of learning will be issued acknowledging a student efforts.</P>
 
-<h2>Project Scope:</h2><hr />
-<p> During <b>Phase 1</b>, Project Initiation
-<p>The team members work independently</p>
-<p><b> Deliverables:</b></p><hr />
- <li> Project Charter</li>
- <li> StakeHolder Registry</li>
- <li> Use cases and mock ups</li>
- <li> Schedule and Budget documents</li>
- <br>
- <p> During <b>Phase 2</b>, Definition and planning</p>
- <p><b> Deliverables:</b></p><hr />
- <li> ER diagrams</li>
- <li> Product Backlog</li>
- <li> User Stories</li>
- <li> List of projects, define Spints,Epics in JIRA</li>
- <li>Define tasks, subtasks, provide estimates and deadlines in JIRA</li>
- <br>
-<p> During <b>Phase 3</b>, Implementation and Execution</p>
- <p><b> Deliverables:</b></p><hr />
- <li> Make progress in the work </li>
- <li> Resolve impedements</li>
- <li> Deliver a usable product at the end of every sprint</li>
-<br>
- <p> During <b>Phase 4</b>, Iterations and Transition</p>
-  <p><b> Deliverables:</b></p><hr />
- <li>Release and live run</li>
- <li> Improvements,Enhacements to the application</li>
+
 </div>
 <h2>Authorization:</h2><hr />
  <li>Vamsee Krishna Gangapatnam</li>
