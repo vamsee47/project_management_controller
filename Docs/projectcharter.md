@@ -33,12 +33,12 @@
     <th>Resposibility</th>
   </tr>
 	<tr>
-<td>Vamsee Krishna Gangapatnamu</td>
+<td>Sai Manikanta DurgaPrasad Vinukonda</td>
     <td>Project Manager</td>
     <td>Planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals</td> 
 	</tr>
 	<tr>
-<td>Sai Manikanta DurgaPrasad Vinukonda</td>
+<td>Vamsee Krishna Gangapatnam</td>
     <td>Team lead</td> 
     <td>Assemble the team mates with various combination of skills to fulfill the goals, Strategy Development, Assigning tasks, Progress montoring and also acting as a team member.</td>
 	</tr>
