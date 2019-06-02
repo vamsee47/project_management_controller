@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js">
 </head>
 <div class="container">
-  <h2>PROJECT MANAGEMENT</h2><h2>MILESTONE 02 </h2>
+  <h2>PROJECT MANAGEMENT</h2><h2>MILESTONE 03 </h2>
 
 <h2>Project Description<h2>
 <h2><b>Statement of need:</b> </h2><p>The main theme this project is creating an interactive website (Ex: Survey, Quiz) to assist Northwest Missouri State University students who all are studying 44-618 Project Management in Business and Technology. This Interactive website help students to learn all the five (5) process groups such as initiating, planning, executing, monitoring & controlling, closing and all 10 Knowledge Areas.</p>
