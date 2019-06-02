@@ -1,4 +1,4 @@
-# Project Communication Management Plan and Stakeholder analysis
+# Project Communication Management Plan 
 
 ### Introduction to Communicaion Management Plan 
 
@@ -64,4 +64,4 @@ Team member/Programmer |Project documents |Reports/Email |S533489@nwmissouri.edu
 Team member/Programmer |Project documents |Reports/Email |S533489@nwmissouri.edu| Every Monday 
 Team member/Programmer |Project documents |Reports/Email |S533714@nwmissouri.edu|Every Monday
 Test Engineer/Programmer |Test reports |Reports/Email |S533980@nwmissouri.edu |End of the each task
-Business Analyst |Budget analysis |Report/Email |S533714@nwmissouri.edu |A few days befor end of project project Starts
+Business Analyst |Budget analysis |Report/Email |S533714@nwmissouri.edu |Before Project Starts
