@@ -57,11 +57,11 @@ Escalation is the process which shows how issues and conflicts are passed up the
  
 Stakeholders|Document Name|Document Format|Contact Person|Due Date|
 ---|---|--|--|--|
-Program Manager	|Project status report |Email |s533908@nwmissouri.edu |Every Day
-Project Manager |Project status report |Email |S533980@nwmissouri.edu |Every week
-Team Lead/Developer |Project status report |Email |S533980@nwmissouri.edu |Every week
-Team member/Programmer |Project documents |Email |S533489@nwmissouri.edu |Every week
-Team member/Programmer |Project documents |Email |S533489@nwmissouri.edu| Every week 
-Team member/Programmer |Project documents |Email |S533714@nwmissouri.edu|Every week
-Test Engineer/Programmer |Test reports |Reports |S533980@nwmissouri.edu |End of the each task
-Business Analyst |Budget analysis |Report |S533714@nwmissouri.edu |A few days befor eof project Starts
+Program Manager	|Project status report |Reports/Email |s533908@nwmissouri.edu |Every Day
+Project Manager |Project status report |Reports/Email |S533980@nwmissouri.edu |Every week
+Team Lead/Developer |Project status report |Reports/Email |S533980@nwmissouri.edu |Every week
+Team member/Programmer |Project documents |Reports/Email |S533489@nwmissouri.edu |Every week
+Team member/Programmer |Project documents |Reports/Email |S533489@nwmissouri.edu| Every week 
+Team member/Programmer |Project documents |Reports/Email |S533714@nwmissouri.edu|Every week
+Test Engineer/Programmer |Test reports |Reports/Email |S533980@nwmissouri.edu |End of the each task
+Business Analyst |Budget analysis |Report/Email |S533714@nwmissouri.edu |A few days befor eof project Starts
