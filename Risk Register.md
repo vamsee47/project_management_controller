@@ -2,7 +2,7 @@
 ## Risk Register
 
 Risk ID| Rank | Name | Description | Category | Root Cause | Triggers | Responses | Risk Owner | Probability | Impact | Status | 
----|---|---|---|---|---|---|---|---|---|---|---|
+---|---|---|---|---|---|---|---|---|---|---------------|----------------|
 R10| 1 | Increased Budget | It is hard to maintain the project budget from the beginning to the end. If the prices of the software tools increase there might be an increased budget. Sometime the increase in the budget can be due to the resources.| Financial/People | Improper cost estimations | Increased cost/dissatisfaction in salaries | Risk Acceptance | Financial Manager | Medium | High | Prediction |
 R11| 2 | Change of Scope | It is very difficult to maintain the scope from the beginning to the end due to the large number of stakeholder involved. If the product owner is not happy with the scope he might make change requests. | Process Risk | Improper Scope estimations/Improper deliverable | Product owners dissatisfaction | Risk Mitigation | Project Manager | High | High | Prediction |
 R12| 3 | Insufficient Time | A small change in schedule might affect the entire process because every step in the project is interlinked with something else. For example, there might be task B which can be done after completing task A. If there is a delay in task A the delay continues in task B| Process Risk | wrong estimation of time | unable to finish the scheduled work on time | Risk Mitigation | Project Manager & Team | High | High | Expected |
