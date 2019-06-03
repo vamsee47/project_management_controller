@@ -22,7 +22,7 @@
 <h2>Project Team</h2><hr />
  <li>Vamsee Krishna Gangapatnam</li>
  <li>Sai Manikanta DurgaPrasad Vinukonda</li>
- <li>Dasari Venkat</li>
+ <li>Dasari Venkata sai krishna</li>
  <li>Aakash Vulluri</li>
 <br>
 <h2>Stories by Role</h2><hr />
@@ -124,7 +124,7 @@
 <h2>Team Signatures</h2><hr />
  <li>Vamsee Krishna Gangapatnam</li>
  <li>Sai Manikanta DurgaPrasad Vinukonda</li>
- <li>Dasari Venkat</li>
+ <li>Dasari Venkata sai krishna</li>
  <li>Aakash Vulluri</li>
 </body>
 </html>
