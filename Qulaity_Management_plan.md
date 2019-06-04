@@ -50,8 +50,8 @@ https://docs.google.com/document/d/1_eqGqOj-eV37ggMQOqoI6o4DPPOO4AZhp5SZO7pxGAw/
 
 Name | Role | Quality Responsibility |
 -----|------|-------|
-Venkata Dasari | Web Developer | Quality Approver |
-Akash Alluri| UI developer | Quality Assurance |
+Venkata Dasari | Web Developer/Programmer | Quality Approver |
+Akash Alluri| UI developer/Programmer | Quality Assurance |
 Sai Manikanta Durga Prasad Vinukonda   | Team Lead | Quality Auditor |
 Vamsee Krishna Gangapatnam| Project Manager | Quality Monitoring |
 
