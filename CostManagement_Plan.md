@@ -13,7 +13,7 @@ Here is the budget details of our project
 |2.1 lIsenced Softwares/IDE  | 5 | $100 | $500 | |
 |2.2 AWS Cloud Servers | 10 | $200 | $2000 | |
 |3. Testing | | | | $1000 |
-|4. Reserves (10% of total estimate) | | | | $1670 |
+|4. Reserves (10% of total estimate) | | | | $1750 |
 |Total Project Cost Estimate | | | | $18370 |
 
 
