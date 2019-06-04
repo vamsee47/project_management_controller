@@ -13,7 +13,7 @@ Here is the budget details of our project
 |2.1 IDE used | - | 22 | $100/day | $2200 |
 |2.2 Project Manager | 2 | 8 | $80/hr | $1280 |
 |2.3 Developers(2) | 7 | 8 | $50/hr | $5600 |
-|2.4 Repository cloud | - | 22 | $100/day | $2200 |
+|2.4 AWS Cloud Servers | - | 22 | $100/day | $2200 |
 |3. Testing | | | | $4480 |
 |3.1 CICD(Jenkins) | - | 22 | $100/day | $2200 |
 |3.2 Project Manager | 2 | 3 | $80/hr | $480 |
