@@ -3,7 +3,7 @@ Here is the budget details of our project
 
 # Cost Estimation
 
-| WBS Items | #Hours | Number of days | Cost/Hr | Total Cost |
+| WBS Items | #Hours | # Calender days | Cost/Hr | Total Cost |
 |-----|------|-------|--------|---------|
 |1. Planning | | | |  |
 |1.1 Project Manager | 2 | 7 | 75 | $1,050 |
