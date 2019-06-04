@@ -3,7 +3,7 @@ Here is the budget details of our project
 
 # Cost Estimation
 
-| WBS Items | Units/Hr | Cost/Unit/Hr | Total | WBS Level 1 Totals |
+| WBS Items | Hr | Cost/Hr | Total | WBS Level 1 Totals |
 |-----|------|-------|--------|---------|
 |1.Project Planning | | | | $14200 |
 |1.1 Project Manager | 75 | $80 | $6000 | |
