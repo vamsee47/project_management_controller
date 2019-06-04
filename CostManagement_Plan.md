@@ -14,7 +14,7 @@ Here is the budget details of our project
 |2.2 AWS Cloud Servers | 10 | $200 | $2000 | |
 |3. Testing | | | | $1000 |
 |4. Reserves (10% of total estimate) | | | | $1750 |
-|Total Project Cost Estimate | | | | $19250 |
+|Total Project Cost Estimate | | | | $20250 |
 
 
 
