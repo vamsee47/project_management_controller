@@ -1,8 +1,7 @@
-## Cost Estimate Plan
 Here is the budget details of our project
 
 
-# Cost Estimation
+# Cost Estimation Plan
 
 | WBS Items | Units/Hr | Cost/Unit/Hr | Total | WBS Level 1 Totals |
 |-----|------|-------|--------|---------|
