@@ -17,6 +17,7 @@
 <br />
 <br />
 <div class="container">
+	<h1>Project Management Plan</h1><hr />
 <h2>Project Information:</h2><hr />
 <p>The main theme this project is creating an interactive website (Ex: Survey, Quiz) to assist Northwest Missouri State University students who all are studying 44-618 Project Management in Business and Technology. This Interactive website help students to learn all the five (5) process groups such as initiating, planning, executing, monitoring & controlling, closing and all 10 Knowledge Areas.</p>
 <h2>Project Team</h2><hr />
