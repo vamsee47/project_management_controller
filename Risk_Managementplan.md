@@ -2,7 +2,7 @@
 
 ID|Risk| Risk Management Plan|
 ---|---|---|
-1 | **Methodology** | <p>We would be using Brainstorming and interviewing,Delphi technique as tools for identifying the risks. </p>|
+1 | **Methodology** | <p>Brainstorming,interviewing and delphi technique are the tools which are used for risk identification. </p>|
 2 | **Roles & Responsibilities** | Project Manager - Vamsee Krishna Gangapatnam - Aprroves or Disapproves the tasks <br> Team Lead - Sai Manikanta Durga prasad vinukonda - Collects and analyses the Financial & Market Risks <br> Web Developer - Venkata Dasari - collects and analyses the technology and structural/process RisK <br> UI Developer - Vamsee Krishan Gangapatnam,Aakash Valluru - Collects and analyzes the resource risk |
 3 | **Budget & Schedule** | A regular analysis of the deviations in the budget and schedule are done using the gantt charts and burndown charts. So, If there are any irregularities an immediate action can be taken.|
 4 | **Risk Categories** | The risks are mainly categorized as: <br> Technical Risk: Occurs on project, system, or on entire infrastructure when an implementation doesn't work. <br> Management risks: Occurs when there is a poor allocation of time and schedule. <br> Organizational Risks: Occurs due to internal inconsistenices and due to poor prioritization of projects. <br> External Risks: Occurs due to regulatory environment and weather issues. |
