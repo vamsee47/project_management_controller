@@ -1,7 +1,6 @@
 # Quality Management:
-Quality management is the process for ensuring that all project activities necessary to design, plan and implement a project are effective and efficient with respect to the purpose of the objective and its performance.
-The goals for quality management are to assure Project deliverables meet their stated requirements and Project management processes are appropriately followed.
-Quality management is performed throughout the project lifecycle with special attention to:
+The International Organization for Standardization (ISO) defines quality as “the degree to which a set of inherent characteristics fulfils requirements” (ISO9000:2000). Project quality management ensures that the project will satisfy the needs for which it was undertaken.Quality management is performed through-out the project life cycle.
+ 
 1.	Quality Planning – This was done  during the project planning process.
 2.	Quality Assurance  –This was done  during the project execution process.
 3.	Quality Control  – This was done  during the project monitoring and controlling process.
