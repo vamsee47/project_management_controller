@@ -477,8 +477,8 @@ Request for Proposal(RFP)
 |-------|--------------------------------------|------------------------------------------|---------------|---------------|-----------------|-----------------|-----------|--------|---------------------------------------------------------------------------------------------------|
 | 1     | Updating the knowledge base articles        | Process evaluation will be delayed       | 05/20/2019     | Vamsee Krishna Gangapatnam | Aakash Vulluru | M               | 06/06/2019 | open   | Awaiting Confirmtion from  Team Lead                                                            | 
 | 2     | AWS server down      | Project work may delayed        | 05/24/2019    | Venkata Dasari |  Sai Mankikanta Durga Prasad | H               | 06/01/2019 | Closed | Worked with server Team and fie=xed teh issue | 
-| 3     | Probability of project getting delay | Go-live of the project date will be late | July 21st     | Ankit Prakash | Rayaan Ahmed    | H               | Aug 01st  | open   | Few adjustments need to be done in the tasks and hire technical resources to finish the tasks     |
-| 4     | Serialization issue while testing | Unit testing may get delayed | june 5th     | Ankit Prakash | Rayaan Ahmed    | H               | june 5th  | closed   | changed normal equals to deep equals in the conditional statement    | 	
+| 3     | Testing fialed  due more bugs | Go-live of the project date will be late | 05/25/2019     | Sai Manikanta durga prasad | Vamsee Krishna Gangapatnam    | H               | 06/06/209  | CLosed   | Writing additional Test cases and using Automation testing tools     |
+| 4     | Project requires additional servers to host applications | Project delivery  may get delayed | 05/29/2019    | Aakash Vulluru| Venkata Dasari  | H               | 06/06/2019  | closed   | Worked with Team Lead and got the required servers | 	
 	
 
            
