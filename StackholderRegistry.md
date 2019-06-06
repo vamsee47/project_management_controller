@@ -22,7 +22,7 @@
     <td>
 	Applied Computer Science</td>
 	 <td>External</td> 
-	 <td>Mentor, suggest improvements and givs comments</td>
+	 <td>Mentor, suggest improvements and gives comments</td>
 	  <td>DCASE@nwmissouri.edu</td> 
   </tr>
   <tr>
