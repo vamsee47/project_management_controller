@@ -218,7 +218,7 @@ The International Organization for Standardization (ISO) defines quality as “t
 3.	Quality Control  – This was done  during the project monitoring and controlling process.
 4.	Verification and Validation – ideally performed in all project processes except initiation.
 
-## Quality Management Plan:
+## Quality Management Plan: 
 
 S.No|What to do | How to do | 
 |---|-----------|-----------|
