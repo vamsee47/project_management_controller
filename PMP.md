@@ -380,6 +380,27 @@ We have  various tools and techniques such as SWOT analysis, The Delphi Techniqu
   
 The Main aim of this Project the students who are taking Project Management course should able to open/login the the application and can study or can take the quiz on the 10 knowledge areas and 5 process.
 
+#### Request for proposal
+
+Request for Proposal(RFP)
+
+-	Purpose of RFP: To create Quiz App which helps studnets to understand 10 knowledge areas and 5 process groups in project management and provide quiz for knowledge and process group.
+
+
+    a.	System Requirements:
+             A computer/Mobile with Internet Access
+  
+    b.	Required Contents of Vendor’s Response to RFP:
+           - Scope,Time,cost,Quality
+     
+    c.	Model Contract:
+           Students should be happy with the user interface
+           Project should complete all the deliverables with good High Availability.
+        
+           
+        
+
+
 
  
 
