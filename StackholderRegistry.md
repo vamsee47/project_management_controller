@@ -22,7 +22,7 @@
     <td>
 	Applied Computer Science</td>
 	 <td>External</td> 
-	 <td>Provide review comments and suggest improvements</td>
+	 <td>Mentor, suggest improvements and givs comments</td>
 	  <td>DCASE@nwmissouri.edu</td> 
   </tr>
   <tr>
@@ -30,12 +30,12 @@
     <td>Developer</td> 
     <td>Applied Computer Science</td>	 
 	 <td>Internal</td> 
-	 <td>Web Developer</td>
+	 <td>Project Manager</td>
 	  <td>s533908@nwmissouri.edu</td> 
   </tr>
   <tr>
     <td>Sai Manikanta Durga Prasad Vinukonda</td>
-    <td>Project Manager</td> 
+    <td>Team Lead/Programmer</td> 
     <td>
     Applied Computer Science</td>
 	 <td>Internal</td> 
