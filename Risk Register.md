@@ -3,7 +3,7 @@
 
 Risk ID| Rank | Name | Description | Category | Root Cause | Triggers | Responses | Risk Owner | Probability | Impact | Status | 
 ---|---|---|---|---|---|---|---|---|---|---------------|----------------|
-R01| 1 | Internal fraud| When trusted people tried to exploit the confidential data of the organization| Operational| Improper verification of the employee | Replication of data | Risk Mitigation | Operational Manager | High| High | Prediction |
+R01| 1 | Internal fraud| In the project budget is a critical role. It was difficult to maintain the project budget consistent .If there is any changes in the prices then budget also changes .Ex(Office Maintenance ,Software Tools)| Operational| Improper verification of the employee | Replication of data | Risk Mitigation | Operational Manager | High| High | Prediction |
 R02| 2 | Employee skills |Improper knowledge of the team members may result in unhealthy projects| Technical Risk | Lack of efficient training | Irrelevant deliverables | Risk Acceptance | Program Manager | Medium | Medium | Prediction |
 R03| 3 | Absenteeism| No call and no show of the employee may cause problems to the flow of the project| People Risk | Lack of commitment | Production issues | Risk Mitigation |Project Manager| Low | High | Expected |
 R04| 4 | Investment risk | When the companies unable to manage its debt and cover its expenses| Financial Risk | no proper budget planning | Delaying deadlines | Risk Avoidance | Financial Manager| High | Medium | Avoided|
