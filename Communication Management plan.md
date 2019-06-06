@@ -2,62 +2,68 @@
 
 ### Introduction to Communicaion Management Plan 
 
-The Communication Management Plan gives the information and communication needs of the stakeholder. It inclused the communication techonologies that are required, such as emails, phone calls, skype calls which helps all the team members to keep in touch about the specific updates, weekly meetings during the completion of the project. The contact details of all the stakeholders and their responsible documents are shown in the Stakeholder communications analysis table.
+The Communication Management Plan determines  the information and communication needs of the stakeholder. It includes  the communication techonologies that are required, such as  VideoConferncing,Voicemails,emails, phone calls, skype calls which helps all the team members to keep in touch about the specific updates, weekly,daily meetings during the completion of the project. The contact details of all the stakeholders and their responsible documents are shown in the Stakeholder communications analysis table.It uses the  formal and informal methods for communicating.
+  
 
 ### Contents in the Project Communication management Plan
-1. Information to be communicated, including format, content, and level of detail
+1. Information to be communicated, including format, content, and level of detail of the Project 
 2. Who will receive the information and who will produce it
 3. Suggested methods or technologies for conveying the information
-4. Frequency of communication
-5. Escalation procedures for resolving issues
-6. Revision procedures for updating the communications management plan
-7. A glossary of common terminology
-8. Stakeholder communications requirements
+4.Production schedule and resources for producing key project information
+5. Frequency of communication
+6. Escalation procedures for resolving issues
+7. Revision procedures for updating the communications management plan
+8. A glossary of common terminology
+9. Stakeholder communications requirements
 
 
 ### 1. Information to be communicated, including format, content, and level of detail
 
-The information related to the project is mainly collected through group and individual communication,interviewing, face-to-face interactions and through productive meetings. Project confidential information is stored in secure tool like google tools which provides easy access to all the stakeholders.
+The information that exits in the project are collected from Interviewing ,Email, Communication  ,meetings .Project  sensitive information is stored in a Googletools.They are in protection mode so that no one exists. 
 
 ### 2. Who will receive the information and who will produce it
 
-The primary communicator for project distribution information is the project manager. If there are any changes in the plan of the project and requirements according to the communication management plan project manager will be the main responsible person through the project. These changes are also discussed with project team and client by conducting formal meetings. Daily progress reports and pending task details are sent to the team lead, project manager and client through emails.
+Project manager is the main source of project distribution .If any changes or modifications or any access in the project they are responsible to project manager. Meetings with the clients also plays a key role in changing the requirements. Status reports or Progress reports defines the work done by the team.
 
 ### 3. Suggested methods or technologies for conveying the information
 
-The key project information will follow a standard template and is provided in the online sharepoint. The template should says what content should be included in it. The level of detail can be decided depending on the individual persons accessing it.
+In the Communication plan we follow a standard template .The templates can be Google docs or Share Point portal or Spread sheet .These are secure forms .Easily maintainable and can be accessible by the team 
 
 
-### Production schedule and resources for producing key project information
+### 4.Production schedule and resources for producing key project information
 
-Status and progress reports of the project are submitted to stakeholders. These reports helps the stakeholders to know the status of the project and how project team members are utilized the resources and also helps project managers to track schedule activities/tasks and resources that are using in the project. These status reports also provides the information about where the project stands.
-
-
-### 4. Frequency of communication
-
-Project Libre helps in creating Gantt charts and Network with the help of Work Breakdown Structure (WBS). Sharing of the documents is done through the sharepoint where all the stakeholders can access the documents, google sites, google slides also used to share the documents among the team membres. Scrum meetings are held daily to know the daily status of the project and the work that need to be done for the day and weekly meeting are conducted with the stakeholders about the project status.
+Below are few of the reports . Production Shedule can be known 
+◦ Status reports  It describes where the project stands at a specific point in time
+◦ Progress reports It  describes what the project team has accomplished during a certain period of time
+◦ Forecasts  It predicts future project status and progress based on past information and trends
 
 
-### 5. Escalation procedures for resolving issues
 
-The issues that are raised must be resolved in a systematic way by raising tickets and solving them based on the priority.
+### 5. Frequency of communication
 
-### 6. Revision procedures for updating the communications management plan
-
-Communications management plan can be updated using collaborative tools like sharepoint, SVN and google tools like google docs, google slides, google calenders, google drive, google gamil, google sheets, and google sites.
+Project Libre or Microsoft Project tool .These are the tools that helps in  creating Gantt charts .By using them we can know the progress of work in a particular day or what amount of work is done by them. Daily meetings done to know the progress.Skype meeting is also done to know the work visually they can see .
 
 
-### 7. A glossary of common terminology
+### 6. Escalation procedures for resolving issues
 
-Stakeholder mean the people who are all affected by the project or project activities.
-Escalation is the process which shows how issues and conflicts are passed up the management chain for resolution and timeframe to achieve resolution.
+Issues that are displayed in the Jira or any tool .First we need to see the priority .Based on the priority from high to low .Support team should assign them  and developers need solve them .
+
+### 7. Revision procedures for updating the communications management plan
+
+CBy using the SharePoint  or google docs, calendars   can updates the Communication manage plan .They play the main role in updating     plan .All can be seen in file
 
 
-### 8. Stakeholder communications requirements
+### 8. A glossary of common terminology
+
+Project archives are a complete set of organized project records that provides an accurate history of the project.A project life cycle is a collection of project phases .Escalation Process or Termination Process.
+
+
+
+### 9. Stakeholder communications requirements
  
 Stakeholders|Document Name|Document Format|Contact Person|Due Date|
 ---|---|--|--|--|
-Program Manager	|Project status report |Reports/Email |s533908@nwmissouri.edu |Every MOnday
+Program Manager |Project status report |Reports/Email |s533908@nwmissouri.edu |Every Monday
 Project Manager |Project status report |Reports/Email |S533980@nwmissouri.edu |Every Monday
 Team Lead/Developer |Project status report |Reports/Email |S533980@nwmissouri.edu |Every Monday
 Team member/Programmer |Project documents |Reports/Email |S533489@nwmissouri.edu |Every Monday
@@ -65,3 +71,4 @@ Team member/Programmer |Project documents |Reports/Email |S533489@nwmissouri.edu
 Team member/Programmer |Project documents |Reports/Email |S533714@nwmissouri.edu|Every Monday
 Test Engineer/Programmer |Test reports |Reports/Email |S533980@nwmissouri.edu |End of the each task
 Business Analyst |Budget analysis |Report/Email |S533714@nwmissouri.edu |Before Project Starts
+
