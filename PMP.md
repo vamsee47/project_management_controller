@@ -370,6 +370,8 @@ We have  various tools and techniques such as SWOT analysis, The Delphi Techniqu
 
 # Risk Management Plan
 
+
+
 ID|Risk| Risk Management Plan|
 ---|---|---|
 1 | **Methodology** | <p> Below are the tools which are used for risk identification.Brainstorming :It  is a technique by which a groupattempts to generate ideas or find a solution for a specific problem by amassing ideas spontaneously and without judgment.Delphi Technique:It is used to derive a consensus among a panel of experts who make predictions about future developments.Interviewing:It is fact-finding technique for collecting information in face-to-face, phone, e-mail, or instant-messaging discussions. SWOT analysis(strengths, weaknesses, opportunities, and threats) can also be used during risk identification.</p>|
@@ -380,10 +382,6 @@ ID|Risk| Risk Management Plan|
 6 | **Revised stakeholders’ tolerances** | In the risk management plan these are addressed by stakeholders |
 7 | **Reproting Formats** | We use the  google spreadsheet, docs to document and reports the issues. A daily status is done by manager and a weekly update is given to the client .
 8 | **Tracking** | In this  Audits for  the risk management plan is done  and also tracking the documents on risk activities are  also done. |
-
-
-
-
 
 
 ## Risk Register
@@ -397,9 +395,15 @@ R04| 4 | Employee Technical skills |Lack of Technical Skills of the employee| Te
 R05| 5 |  Characteristic requirements | Frequent changes in the requirements may effect the quality of the project and time for the project also changes  | Process Risk | Immediate  changes| Not satisfication of clients| Risk Acceptance | Program Manager | Medium | High | Expected |
 R06| 6 |Internal deception | when the employee in the project shares the confidential data| Financial Risk | no proper budget planning | Operational | Risk Mitigation | Operational Manager| High | Medium | Avoided|
 
+##	Risk Mitigation Strategies
 
-
-## Risk Mitigation Plan
+Sno.| Major Risks | Strategies to mitigate risk | Responsibility |
+---|---|---|---|
+1 | Financial Risk | In every point estimate money inflows and outflows.Estimating surplus costs for future economic problems is suggested | Financial Manager |
+2 | Market Risk |Majority of customers rely on the easy to use item.so make the product easy to use and attractive  | Program and Project Manager |
+3 | Technology Risk | Scrutiny the employess frequently and test them in all areas | Program Manager |
+4 | People Risk | Recruit the right skilled Employee .Make a eye on his skills  | Project Manager |
+5 | Operational Risk | procure the outstading resources .To get a better output . | Project and Program Manger |
 
 
 ### Project procurement management plan
