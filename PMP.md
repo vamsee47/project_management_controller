@@ -210,6 +210,9 @@ The Work Breakdown Structure (WBS) for our project is:
 https://github.com/vamsee47/project_management_controller/blob/master/Project%20Management%20Controller_ganttchart.pod
 
 
+![](https://github.com/vamsee47/project_management_controller/blob/master/Gannt%20chart%20image.JPG)
+
+
 # Quality Management:
 The International Organization for Standardization (ISO) defines quality as “the degree to which a set of inherent characteristics fulfils requirements” (ISO9000:2000). Project quality management ensures that the project will satisfy the needs for which it was undertaken.Quality management is performed through-out the project life cycle.
  
