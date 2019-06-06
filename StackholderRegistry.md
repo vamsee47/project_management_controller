@@ -54,7 +54,7 @@
 	  <td>S533489@nwmissouri.edu</td> 
   </tr>
 <tr>
-    <td>Akash Alluri</td>
+    <td>Aakash valluru</td>
     <td>Test Engineer</td> 
     <td>
 	Applied Computer Science</td>
