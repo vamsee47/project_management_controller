@@ -50,7 +50,7 @@ Issues that are displayed in the Jira or any tool .First we need to see the prio
 
 ### 7. Revision procedures for updating the communications management plan
 
-CBy using the SharePoint  or google docs, calendars   can updates the Communication manage plan .They play the main role in updating     plan .All can be seen in file
+By using the SharePoint  or google docs, calendars   can updates the Communication manage plan .They play the main role in updating     plan .All can be seen in file
 
 
 ### 8. A glossary of common terminology
