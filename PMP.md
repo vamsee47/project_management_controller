@@ -2,9 +2,7 @@
 
 ### Description
 
-The purpose is to create web application using Php as backend which helps people to understand 10 knowledge areas and 5 process groups in project management and provide quiz for knowledge are and process group.
-
-Below are the various knowledge area plans integrated with the project:
+The main theme this project is creating an interactive website (Ex: Survey, Quiz) to assist Northwest Missouri State University students who all are studying 44-618 Project Management in Business and Technology. This Interactive website help students to learn all the five (5) process groups such as initiating, planning, executing, monitoring & controlling, closing and all 10 Knowledge Areas.
 
 ### Project scope management plan
 
