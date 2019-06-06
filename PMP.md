@@ -142,13 +142,11 @@ The main theme this project is creating an interactive website (Ex: Survey, Quiz
   </body>
   </html>
  
- Here is the budget details of our project
 
-Here is the budget details of our project
 
 # Cost Management
 
- <h3><b>Cost Estimation</b><h3>
+ Cost Estimation
 
 | WBS Items | #Hours | # Calender days | Cost/Hr | Total Cost |
 |-----|------|-------|--------|---------|
