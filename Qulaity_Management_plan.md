@@ -42,8 +42,7 @@ Following are the metrics used to measure quality:
 | 2    | Mid-level Defects     | Bugs, Integration issues                                      | Exactly when modules are united together and attempted on a whole a couple issues may develop so the testing gathering should have enough learning of the extensive number of modules|                                          
 | 3    | Low-level Defects     | Hard-disk specifications                         | Screen resolution of the PCs are not be a tremendous issue but instead work should be conceivable better if it is as per the particulars|
 
-## Quality Checklists:
-https://docs.google.com/document/d/1_eqGqOj-eV37ggMQOqoI6o4DPPOO4AZhp5SZO7pxGAw/edit?usp=sharing
+
 
 ## Roles and Responsibilities:
 
