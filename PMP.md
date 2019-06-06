@@ -181,6 +181,8 @@ Detail Analysis of Link
 https://docs.google.com/spreadsheets/d/18YhMFtEUTHexQ5R4Ek_VqTJjw6b-D3JtQLmbazLDhV4/edit#gid=0
 
 
+![](https://github.com/vamsee47/project_management_controller/blob/master/costplanpic.JPG)
+
 # Work Breakdown Structure (WBS)
 
 The Work Breakdown Structure (WBS) for our project is:
