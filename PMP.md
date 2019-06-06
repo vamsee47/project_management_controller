@@ -475,8 +475,8 @@ Request for Proposal(RFP)
 
 | Sl no | Issue Description                    | Impact on Project                        | Date Reported | Reported By   | Assigned To     | Priority(M/H/L) | Due Date  | Status | Comments
 |-------|--------------------------------------|------------------------------------------|---------------|---------------|-----------------|-----------------|-----------|--------|---------------------------------------------------------------------------------------------------|
-| 1     | Requires a list of suppliers         | Process evaluation will be delayed       | May 30th      | Vamsee Krishna Gangapatnam | Aakash Vulluru | M               | 05/20/2019 | open   | Awaiting Confirmtion from  Team Lead                                                            | 
-| 2     | Cost estimation may increase         | Budget will exceed the estimation        | June 12th     | Ankit Prakash | Varun Sai Reddy | H               | June 20th | Closed | After proper estimation and meetings with stakeholders the cost estimation issues have been fixed | 
+| 1     | Updating the knowledge base articles        | Process evaluation will be delayed       | 05/20/2019     | Vamsee Krishna Gangapatnam | Aakash Vulluru | M               | 06/06/2019 | open   | Awaiting Confirmtion from  Team Lead                                                            | 
+| 2     | AWS server down      | Project work may delayed        | 05/24/2019    | Venkata Dasari |  Sai Mankikanta Durga Prasad | H               | 06/01/2019 | Closed | Worked with server Team and fie=xed teh issue | 
 | 3     | Probability of project getting delay | Go-live of the project date will be late | July 21st     | Ankit Prakash | Rayaan Ahmed    | H               | Aug 01st  | open   | Few adjustments need to be done in the tasks and hire technical resources to finish the tasks     |
 | 4     | Serialization issue while testing | Unit testing may get delayed | june 5th     | Ankit Prakash | Rayaan Ahmed    | H               | june 5th  | closed   | changed normal equals to deep equals in the conditional statement    | 	
 	
