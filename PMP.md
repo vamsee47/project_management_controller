@@ -286,8 +286,7 @@ It is a  technique that separates data gathered from a variety of sources so tha
 
 #### Project organizational chart
 
-
-
+![](https://github.com/vamsee47/project_management_controller/blob/master/Organisational%20chart.JPG)
 
 # Project Communication Management Plan 
 
