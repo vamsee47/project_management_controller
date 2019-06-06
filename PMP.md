@@ -369,6 +369,17 @@ Business Analyst |Budget analysis |Report/Email |S533714@nwmissouri.edu |Before 
 The main goal of the risk management plan is to reduce the number of risks associated with the project. This management plan will highlight various potential risks and also will control these risks in order to achieve goal. 
 We have  various tools and techniques such as SWOT analysis, The Delphi Technique, Interviewing etc. This will be documented by the stakeholders in the form of assessment activities.
 
+## Risk Register
+
+## Risk Mitigation Plan
+
+
+### Project procurement management plan
+
+#### Statement of Work
+  
+The Main aim of this Project the students who are taking Project Management course should able to open/login the the application and can study or can take the quiz on the 10 knowledge areas and 5 process.
+
 
  
 
