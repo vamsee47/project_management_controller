@@ -462,6 +462,24 @@ Request for Proposal(RFP)
 	  <td>S533714@nwmissouri.edu</td> 
   </tr>
 </table>
+#### Stakeholder analysis
+
+| Name             | Level of Interest | Level of Influence | Potential Management Strategies                                                                                                                                                                                                                                   | 
+|------------------|-------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| Vamsee Krishna Gangapatnam     | High              | Leading            | Has Good Management Skills, Leadership quality. Managed the project communicate with client and acts as a catalyst & bridge within team and Client. Analyzing each task and its implementation.                                                                    | 
+| Sai Manikanta Durga Prasad Vinukonda    | High              | Supportive         | He has good commanding skills and good at programming. He can monitor the project status                                                                                                                                                                          | 
+| Venkata krishna Dasari   | High              | Supportive         | Has the ability to be in collaboration with the core business units and the Information Services Department to translate user requirements, develop and coordinate user testing, and assist in training and implementation of new systems or system enhancements. | 
+| Aakash Vulluru     | High              | Testing            | Has good analytical skills to think out of the box and try to test to product from customer point of view.                                                                                                                                                        | 
+#### Issue log
+
+
+| Sl no | Issue Description                    | Impact on Project                        | Date Reported | Reported By   | Assigned To     | Priority(M/H/L) | Due Date  | Status | Comments
+|-------|--------------------------------------|------------------------------------------|---------------|---------------|-----------------|-----------------|-----------|--------|---------------------------------------------------------------------------------------------------|
+| 1     | Requires a list of suppliers         | Process evaluation will be delayed       | May 30th      | Ankit Prakash | Mushafiq Fakki  | M               | July 30th | open   | "Pending, Few issues has to be sorted"                                                            | 
+| 2     | Cost estimation may increase         | Budget will exceed the estimation        | June 12th     | Ankit Prakash | Varun Sai Reddy | H               | June 20th | Closed | After proper estimation and meetings with stakeholders the cost estimation issues have been fixed | 
+| 3     | Probability of project getting delay | Go-live of the project date will be late | July 21st     | Ankit Prakash | Rayaan Ahmed    | H               | Aug 01st  | open   | Few adjustments need to be done in the tasks and hire technical resources to finish the tasks     |
+| 4     | Serialization issue while testing | Unit testing may get delayed | june 5th     | Ankit Prakash | Rayaan Ahmed    | H               | june 5th  | closed   | changed normal equals to deep equals in the conditional statement    | 	
+	
 
            
         
