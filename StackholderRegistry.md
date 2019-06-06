@@ -6,6 +6,8 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js">
 </head>
+	<h2>Stake Holder Management</h2>
+	<P>Stakeholder management is a critical component to the successful delivery of any project, programme or activity. A stakeholder is any individual, group or organization that can affect, be affected by, or perceive itself to be affected by a programme.</p>
 <h2>Stake Holder Registry</h2><br>
 <table style="width:100%;border: 1px solid black;">
   <tr>
