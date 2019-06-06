@@ -364,7 +364,10 @@ Test Engineer/Programmer |Test reports |Reports/Email |S533980@nwmissouri.edu |E
 Business Analyst |Budget analysis |Report/Email |S533714@nwmissouri.edu |Before Project Starts
 
 
+### Project risk management plan
 
+The main goal of the risk management plan is to reduce the number of risks associated with the project. This management plan will highlight various potential risks and also will control these risks in order to achieve goal. 
+We have  various tools and techniques such as SWOT analysis, The Delphi Technique, Interviewing etc. This will be documented by the stakeholders in the form of assessment activities.
 
 
  
