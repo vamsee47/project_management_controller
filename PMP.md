@@ -284,6 +284,10 @@ Scatter diagram is a  Graphs pairs of numerical data, one variable on each axis,
 -  Stratification: 
 It is a  technique that separates data gathered from a variety of sources so that patterns can be seen 
 
+#### Project organizational chart
+
+
+
  
 
 
