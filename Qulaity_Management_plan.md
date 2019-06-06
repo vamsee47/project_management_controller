@@ -56,12 +56,14 @@ Vamsee Krishna Gangapatnam| Project Manager | Quality Monitoring |
 
 ## Quality Tools:
 The following are examples of tools that can be used to support quality management implementation
-- Cost-Benefit Analysis: Compares the cost of the quality process to the expected benefit
-- Control Charts : Used to determine if a process is stable or predictable, within limits
-- Benchmarking : Compares current project processes to comparable projects 
-- Statistical Sampling : Choosing a representative sample from a population of interest for inspection
-- Cost of Quality : Costs incurred for quality, includes cost of conformance and cost of non-conformance
-- Six Sigma : Improves the quality of process outputs by identifying and removing causes of errors
+Benchmarking :Benchmarking generates ideas for quality improvements by comparing specific project practices or product characteristics to those of other projects or products within or outside the performing organization. 
+Cause-and-effect diagram: (also called Ishikawa or fishbone chart): Identifies many possible causes for an effect or problem and sorts ideas into useful categories.
+Check sheet: A structured, prepared form for collecting and analyzing data; a generic tool that can be adapted for a wide variety of purposes.
+Control charts: Graphs used to study how a process changes over time. Comparing current data to historical control limits leads to conclusions about whether the process variation is consistent (in control) or is unpredictable (out of control, affected by special causes of variation).
+Histogram: The most commonly used graph for showing frequency distributions, or how often each different value in a set of data occurs.
+Pareto chart:  It Shows on a bar graph which factors are more significant.
+Scatter diagram: Scatter diagram is a  Graphs pairs of numerical data, one variable on each axis, to look for a relationship.
+Stratification: It is a  technique that separates data gathered from a variety of sources so that patterns can be seen 
 
 
 
