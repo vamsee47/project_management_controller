@@ -15,7 +15,7 @@
 <h2><b>Project Team</b></h2>
  <li>Vamsee Krishna Gangapatnam</li>
  <li>Sai Manikanta Durga Prasad </li>
- <li>Aakash Valluru</li>
+ 
  <li>Venkata Sai Krishna Dasari</li>
 
 
@@ -44,17 +44,17 @@
   </tr>
   <tr>
   <td>Front end Developers </td> 
-    <td>Vamsee Krishna Gangapatnam, Sai Manikata Durga Prasad Vinukonda, Aakash Valluru, Venkata Dasari</td>
+    <td>Vamsee Krishna Gangapatnam, Sai Manikata Durga Prasad Vinukonda, Venkata Dasari</td>
     
     
   </tr>
   <tr>
   <td>Application support team</td>
-    <td>Vamsee Krishna Gangapatnam, Sai Manikata Durga Prasad Vinukonda, Aakash Valluru, Venkata Dasari</td>  
+    <td>Vamsee Krishna Gangapatnam, Sai Manikata Durga Prasad Vinukonda, Venkata Dasari</td>  
   </tr>
   <tr>
   <td>Testers</td> 
-    <td>Vamsee Krishna Gangapatnam, Sai Manikata Durga Prasad Vinukonda, Aakash Valluru, Venkata Dasari</td>
+    <td>Vamsee Krishna Gangapatnam, Sai Manikata Durga Prasad Vinukonda, Venkata Dasari</td>
          
   </tr>   
   </tr>
@@ -67,7 +67,8 @@
   <li>Vamsee Krishna Gangapatnam</li>
   <li>Sai Manikanta Durga Prasad Vinukonda</li>
   <li> Venkata Sai Krishna Dasari</li>
-  <li>Aakash Valluru</li>
+  
+  
 </ul> 
 
 
